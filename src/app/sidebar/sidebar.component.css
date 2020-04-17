@@ -3,8 +3,15 @@
     color: white;
 }
 
+.ThiccStyle
+{
+    border-top: 1px solid #a00000;
+    border-bottom: 1px solid #a00000;
+}
+
 .nav-link:hover
 {
     color: rgb(255, 74, 74);
 }
+
 
